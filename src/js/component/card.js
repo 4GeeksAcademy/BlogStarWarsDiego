@@ -1,7 +1,6 @@
 import PropTypes from "prop-types";
 import React, { useEffect, useContext, useState } from "react";
 import { Context } from "../store/appContext";
-// import { useParams } from "react-router-dom";
 import { Link } from "react-router-dom";
 
 export const Card = ({ item, resource }) => {
@@ -46,3 +45,5 @@ Card.propTypes = {
     item: PropTypes.object,
     resource: PropTypes.string,
 };
+
+
