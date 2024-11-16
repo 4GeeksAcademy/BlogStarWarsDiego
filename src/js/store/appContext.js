@@ -1,3 +1,5 @@
+//Made locally with VSC and copied to Repo by Diego Vega
+
 import React, { useState, useEffect } from "react";
 import getState from "./flux.js";
 

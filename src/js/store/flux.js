@@ -1,3 +1,5 @@
+//Made locally with VSC and copied to Repo by Diego Vega
+
 const getState = ({ getStore, getActions, setStore }) => {
 	return {
 		store: {

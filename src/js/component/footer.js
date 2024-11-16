@@ -1,3 +1,5 @@
+//Made locally with VSC and copied to Repo by Diego Vega
+
 import React, { Component } from "react";
 
 export const Footer = () => (

@@ -1,3 +1,5 @@
+//Made locally with VSC and copied to Repo by Diego Vega
+
 import React, {useContext, useEffect} from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import ScrollToTop from "./component/scrollToTop";
