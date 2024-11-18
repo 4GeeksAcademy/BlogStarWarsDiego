@@ -5,7 +5,8 @@ import PropTypes from "prop-types";
 
 export const Title = ({text}) => {
 return (
-    <h1 className = "display-6" style={{color:"#05f5f1"}}><strong>{text}</strong></h1>
+
+    <h1 className = "display-6" style={{color:"#1114a0"}}><strong>{text}</strong></h1>
 )
 };
 
